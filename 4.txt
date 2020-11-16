@@ -1,1 +1,2 @@
 Creating a new featureB branch
+Updates to featureB branch from featureA
